@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx json-server --watch db.json"
+    "start": "npm json-server --watch db.json"
   },
   "keywords": [],
   "author": "",
