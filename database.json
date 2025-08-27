@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "5cabe961-a0db-40b8-b108-e5b28bfd73d3",
+      "date": "2025-08-27",
+      "city": "RIO DE JANEIRO",
+      "local": "STUDIO SOM E VISUAL",
+      "type": "confirmado",
+      "observacao": "TESTE"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "username": "Heitor",
+      "password": "02022504",
+      "level": "administrador"
+    },
+    {
+      "username": "Danilo",
+      "password": "1234",
+      "level": "usuario_simples"
+    }
+  ]
+}

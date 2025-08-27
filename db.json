@@ -1,0 +1,23 @@
+{
+  "events": [],
+  "users": [
+    {
+      "username": "Heitor",
+      "password": "02022504",
+      "level": "administrador",
+      "id": 1
+    },
+    {
+      "username": "Danilo",
+      "password": "1234",
+      "level": "usuario_simples",
+      "id": 2
+    },
+    {
+      "username": "Rodrigo",
+      "password": "1234",
+      "level": "usuario_simples",
+      "id": 3
+    }
+  ]
+}
